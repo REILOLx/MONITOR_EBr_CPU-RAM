@@ -1,0 +1,14 @@
+C:\Users\Eduardo Reis\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Eduardo Reis\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CPURAM.csproj.GenerateResource.cache
+C:\Users\Eduardo Reis\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CPURAM.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo Reis\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Eduardo Reis\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Eduardo Reis\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Eduardo Reis\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Eduardo Reis\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Eduardo Reis\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MetroFramework.Design.dll
+C:\Users\Eduardo Reis\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MetroFramework.dll
+C:\Users\Eduardo Reis\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Eduardo Reis\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CPURAM.csproj.CopyComplete
+C:\Users\Eduardo Reis\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CPURAM.csproj.AssemblyReference.cache
+C:\Users\Eduardo Reis\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EBr.resources
