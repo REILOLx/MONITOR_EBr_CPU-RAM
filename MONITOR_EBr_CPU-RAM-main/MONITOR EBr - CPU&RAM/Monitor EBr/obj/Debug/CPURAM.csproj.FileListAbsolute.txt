@@ -1,0 +1,28 @@
+C:\Users\Eduardo Reis\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Eduardo Reis\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CPURAM.csproj.GenerateResource.cache
+C:\Users\Eduardo Reis\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CPURAM.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo Reis\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Eduardo Reis\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Eduardo Reis\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Eduardo Reis\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Eduardo Reis\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Eduardo Reis\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MetroFramework.Design.dll
+C:\Users\Eduardo Reis\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MetroFramework.dll
+C:\Users\Eduardo Reis\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Eduardo Reis\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CPURAM.csproj.CopyComplete
+C:\Users\Eduardo Reis\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CPURAM.csproj.AssemblyReference.cache
+C:\Users\Eduardo Reis\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EBr.resources
+C:\Users\Eduardo Reis\Desktop\MONITOR_EBr_CPU-RAM-main\MONITOR EBr - CPU&RAM\Monitor EBr\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Eduardo Reis\Desktop\MONITOR_EBr_CPU-RAM-main\MONITOR EBr - CPU&RAM\Monitor EBr\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Eduardo Reis\Desktop\MONITOR_EBr_CPU-RAM-main\MONITOR EBr - CPU&RAM\Monitor EBr\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Eduardo Reis\Desktop\MONITOR_EBr_CPU-RAM-main\MONITOR EBr - CPU&RAM\Monitor EBr\bin\Debug\MetroFramework.Design.dll
+C:\Users\Eduardo Reis\Desktop\MONITOR_EBr_CPU-RAM-main\MONITOR EBr - CPU&RAM\Monitor EBr\bin\Debug\MetroFramework.dll
+C:\Users\Eduardo Reis\Desktop\MONITOR_EBr_CPU-RAM-main\MONITOR EBr - CPU&RAM\Monitor EBr\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Eduardo Reis\Desktop\MONITOR_EBr_CPU-RAM-main\MONITOR EBr - CPU&RAM\Monitor EBr\obj\Debug\CPURAM.csproj.AssemblyReference.cache
+C:\Users\Eduardo Reis\Desktop\MONITOR_EBr_CPU-RAM-main\MONITOR EBr - CPU&RAM\Monitor EBr\obj\Debug\WindowsFormsApp1.EBr.resources
+C:\Users\Eduardo Reis\Desktop\MONITOR_EBr_CPU-RAM-main\MONITOR EBr - CPU&RAM\Monitor EBr\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Eduardo Reis\Desktop\MONITOR_EBr_CPU-RAM-main\MONITOR EBr - CPU&RAM\Monitor EBr\obj\Debug\CPURAM.csproj.GenerateResource.cache
+C:\Users\Eduardo Reis\Desktop\MONITOR_EBr_CPU-RAM-main\MONITOR EBr - CPU&RAM\Monitor EBr\obj\Debug\CPURAM.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo Reis\Desktop\MONITOR_EBr_CPU-RAM-main\MONITOR EBr - CPU&RAM\Monitor EBr\obj\Debug\CPURAM.csproj.CopyComplete
+C:\Users\Eduardo Reis\Desktop\MONITOR_EBr_CPU-RAM-main\MONITOR EBr - CPU&RAM\Monitor EBr\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Eduardo Reis\Desktop\MONITOR_EBr_CPU-RAM-main\MONITOR EBr - CPU&RAM\Monitor EBr\obj\Debug\WindowsFormsApp1.pdb
